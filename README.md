@@ -1,0 +1,2 @@
+# 3D-Generative-Adversarial-Networks
+GENERATING 3D NUMBERS UTILIZING DCGAN
