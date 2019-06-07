@@ -2,7 +2,9 @@
 GENERATING 3D NUMBERS UTILIZING DCGAN
 
 Instance of voxolized mnist number: 
+
 ![alt-text](results/1.png?raw=true "voxelized mnist") 
+
 
 Instance  of output:
 
