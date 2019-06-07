@@ -2,4 +2,4 @@
 GENERATING 3D NUMBERS UTILIZING DCGAN
 
 
-![Alt text](results/1.png?raw=true "voxelized mnist")  ![Alt text](results/2.png?raw=true "voxelized mnist") ![Alt text](results/3.png?raw=true "voxelized mnist")
+![alt-text-1](results/1.png?raw=true "voxelized mnist")  ![alt-text-2](results/2.png?raw=true "voxelized mnist") ![alt-text-2](results/3.png?raw=true "voxelized mnist")
